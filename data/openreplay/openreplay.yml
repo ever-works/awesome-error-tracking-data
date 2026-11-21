@@ -1,0 +1,13 @@
+name: "OpenReplay"
+description: "OpenReplay is an open-source session replay and error tracking tool for frontend applications. It can be self-hosted and captures DOM changes, console logs, and network requests. It is free to self-host."
+source_url: "https://openreplay.com/"
+category: "Replay + Errors"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "replay"
+  - "frontend"
+  - "error-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/openreplay.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://openreplay.com/>\n- Repository: <https://github.com/openreplay/openreplay>\n\nLicense: Apache-2.0.\n"
+updated_at: "2026-11-21 01:23"

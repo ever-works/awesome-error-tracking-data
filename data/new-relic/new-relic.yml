@@ -1,0 +1,13 @@
+name: "New Relic"
+description: "New Relic is an observability platform that includes APM and error tracking for cloud-native applications. It correlates errors with traces, logs, and infrastructure metrics. It is a paid SaaS with a free tier."
+source_url: "https://newrelic.com/"
+category: "APM with Error Tracking"
+tags:
+  - "freemium"
+  - "paid"
+  - "apm"
+  - "observability"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/newrelic.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://newrelic.com/>\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,12 @@
+name: "TrackJS"
+description: "TrackJS is a frontend error monitoring tool focused on JavaScript errors in web applications. It records user, network, and application context around each error. It is a paid SaaS with a free trial."
+source_url: "https://trackjs.com/"
+category: "Frontend / JavaScript Errors"
+tags:
+  - "paid"
+  - "frontend"
+  - "javascript"
+  - "error-monitoring"
+icon_url: "https://icons.duckduckgo.com/ip3/trackjs.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://trackjs.com/>\n"
+updated_at: "2026-11-21 01:23"

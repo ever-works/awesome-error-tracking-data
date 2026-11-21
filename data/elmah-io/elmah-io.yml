@@ -1,0 +1,12 @@
+name: "Elmah.io"
+description: "Elmah.io is an error tracking and logging service focused on .NET applications. It integrates with Visual Studio and provides searchable error history. It is a paid SaaS with a free tier."
+source_url: "https://elmah.io/"
+category: "Error Tracking SaaS"
+tags:
+  - "freemium"
+  - "paid"
+  - "net"
+  - "error-logging"
+icon_url: "https://icons.duckduckgo.com/ip3/elmah.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://elmah.io/>\n"
+updated_at: "2026-11-21 01:23"

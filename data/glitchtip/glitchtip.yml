@@ -1,0 +1,12 @@
+name: "GlitchTip"
+description: "GlitchTip is an open-source, self-hosted error tracking tool compatible with Sentry SDKs. It focuses on simplicity and privacy for teams that want to host their own data. It is free to use under an open-source license."
+source_url: "https://glitchtip.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "sentry-compatible"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/glitchtip.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://glitchtip.com/>\n- Repository: <https://github.com/glitchtip/glitchtip>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 01:23"

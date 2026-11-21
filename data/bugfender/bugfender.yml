@@ -1,0 +1,13 @@
+name: "Bugfender"
+description: "Bugfender is remote logging and crash reporting for mobile and web applications. It stores logs on the device and sends them when an issue occurs. It is a paid SaaS with a free plan."
+source_url: "https://bugfender.com/"
+category: "Frontend / JavaScript Errors"
+tags:
+  - "freemium"
+  - "paid"
+  - "mobile"
+  - "remote-logging"
+  - "crash-reporting"
+icon_url: "https://icons.duckduckgo.com/ip3/bugfender.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://bugfender.com/>\n"
+updated_at: "2026-11-21 01:23"

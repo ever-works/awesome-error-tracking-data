@@ -1,0 +1,13 @@
+name: "PostHog Error Tracking"
+description: "PostHog is an open-source product analytics platform that includes error tracking and session replay. It can be self-hosted or used as a managed cloud service. It offers a generous free tier and paid plans."
+source_url: "https://posthog.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "freemium"
+  - "product-analytics"
+icon_url: "https://icons.duckduckgo.com/ip3/posthog.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://posthog.com/>\n- Repository: <https://github.com/PostHog/posthog>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:23"

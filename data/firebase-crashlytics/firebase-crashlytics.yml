@@ -1,0 +1,13 @@
+name: "Firebase Crashlytics"
+description: "Firebase Crashlytics is a lightweight crash reporter for iOS, Android, Flutter, and Unity apps. It aggregates crashes into actionable issues and provides real-time alerts. It is free to use as part of Firebase."
+source_url: "https://firebase.google.com/products/crashlytics"
+category: "Mobile Crash Reporting"
+tags:
+  - "free"
+  - "mobile"
+  - "crash-reporting"
+  - "ios"
+  - "android"
+icon_url: "https://icons.duckduckgo.com/ip3/firebase.google.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://firebase.google.com/products/crashlytics>\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,74 @@
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free-plan
+  name: "Free Plan"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: error-tracking
+  name: "Error Tracking"
+- id: paid
+  name: "Paid"
+- id: mobile
+  name: "Mobile"
+- id: frontend
+  name: "Frontend"
+- id: stability-monitoring
+  name: "Stability Monitoring"
+- id: workflow
+  name: "Workflow"
+- id: uptime-monitoring
+  name: "Uptime Monitoring"
+- id: apm
+  name: "APM"
+- id: crash-reporting
+  name: "Crash Reporting"
+- id: sentry-compatible
+  name: "Sentry-Compatible"
+- id: free
+  name: "Free"
+- id: ruby
+  name: "Ruby"
+- id: elixir
+  name: "Elixir"
+- id: ios
+  name: "iOS"
+- id: android
+  name: "Android"
+- id: enterprise
+  name: "Enterprise"
+- id: cloud
+  name: "Cloud"
+- id: product-analytics
+  name: "Product Analytics"
+- id: net
+  name: ".NET"
+- id: replay
+  name: "Replay"
+- id: session-replay
+  name: "Session Replay"
+- id: observability
+  name: "Observability"
+- id: ai-powered
+  name: "AI-Powered"
+- id: full-stack
+  name: "Full-Stack"
+- id: deploy-tracking
+  name: "Deploy Tracking"
+- id: javascript
+  name: "JavaScript"
+- id: error-monitoring
+  name: "Error Monitoring"
+- id: in-app-feedback
+  name: "In-App Feedback"
+- id: error-logging
+  name: "Error Logging"
+- id: remote-logging
+  name: "Remote Logging"
+- id: python
+  name: "Python"
+- id: airbrake-compatible
+  name: "Airbrake-Compatible"

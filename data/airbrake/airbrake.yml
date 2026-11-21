@@ -1,0 +1,12 @@
+name: "Airbrake"
+description: "Airbrake is an error tracking and monitoring tool for web and mobile applications. It aggregates exceptions and provides deploy tracking and release insights. It is a paid SaaS with a free trial."
+source_url: "https://airbrake.io/"
+category: "Error Tracking SaaS"
+tags:
+  - "paid"
+  - "api"
+  - "error-tracking"
+  - "deploy-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/airbrake.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://airbrake.io/>\n"
+updated_at: "2026-11-21 01:23"

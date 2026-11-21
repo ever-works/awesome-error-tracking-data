@@ -1,0 +1,12 @@
+name: "Honeybadger"
+description: "Honeybadger offers error tracking, uptime monitoring, and check-ins for developers. It is designed for small to mid-sized teams and supports major web frameworks. It is a paid SaaS with a free trial."
+source_url: "https://www.honeybadger.io/"
+category: "Error Tracking SaaS"
+tags:
+  - "paid"
+  - "api"
+  - "uptime-monitoring"
+  - "error-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/www.honeybadger.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.honeybadger.io/>\n"
+updated_at: "2026-11-21 01:23"

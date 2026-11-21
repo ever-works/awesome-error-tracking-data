@@ -1,0 +1,12 @@
+name: "Rollbar"
+description: "Rollbar is a cloud-based error tracking and debugging tool for software developers. It aggregates exceptions from web and mobile apps and provides workflow tools for triage. It offers paid plans with a free tier."
+source_url: "https://rollbar.com/"
+category: "Error Tracking SaaS"
+tags:
+  - "freemium"
+  - "api"
+  - "error-tracking"
+  - "workflow"
+icon_url: "https://icons.duckduckgo.com/ip3/rollbar.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://rollbar.com/>\n"
+updated_at: "2026-11-21 01:23"

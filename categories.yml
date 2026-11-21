@@ -1,0 +1,12 @@
+- id: error-tracking-saas
+  name: "Error Tracking SaaS"
+- id: open-source-and-self-hosted
+  name: "Open-Source & Self-Hosted"
+- id: mobile-crash-reporting
+  name: "Mobile Crash Reporting"
+- id: frontend-javascript-errors
+  name: "Frontend / JavaScript Errors"
+- id: apm-with-error-tracking
+  name: "APM with Error Tracking"
+- id: replay-errors
+  name: "Replay + Errors"

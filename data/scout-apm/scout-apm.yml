@@ -1,0 +1,13 @@
+name: "Scout APM"
+description: "Scout APM is an application performance monitoring tool with error tracking for Ruby, Python, Elixir, and PHP. It highlights performance bottlenecks and exceptions in code. It is a paid SaaS with a free trial."
+source_url: "https://scoutapm.com/"
+category: "APM with Error Tracking"
+tags:
+  - "paid"
+  - "apm"
+  - "error-tracking"
+  - "ruby"
+  - "python"
+icon_url: "https://icons.duckduckgo.com/ip3/scoutapm.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://scoutapm.com/>\n"
+updated_at: "2026-11-21 01:23"

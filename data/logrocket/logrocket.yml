@@ -1,0 +1,13 @@
+name: "LogRocket"
+description: "LogRocket combines session replay with error tracking for web applications. It lets developers see user interactions leading up to a bug and inspect console logs and network requests. It is a commercial SaaS with a free tier."
+source_url: "https://logrocket.com/"
+category: "Replay + Errors"
+tags:
+  - "freemium"
+  - "replay"
+  - "frontend"
+  - "error-tracking"
+  - "session-replay"
+icon_url: "https://icons.duckduckgo.com/ip3/logrocket.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://logrocket.com/>\n"
+updated_at: "2026-11-21 01:23"

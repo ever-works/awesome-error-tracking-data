@@ -1,0 +1,12 @@
+name: "Exceptionless"
+description: "Exceptionless is an open-source error tracking and reporting service for .NET and other platforms. It can be self-hosted or used as a cloud service and includes feature usage tracking. It is free to self-host."
+source_url: "https://exceptionless.com/"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "net"
+  - "error-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/exceptionless.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://exceptionless.com/>\n- Repository: <https://github.com/exceptionless/Exceptionless>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:23"

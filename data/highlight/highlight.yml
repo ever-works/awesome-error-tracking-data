@@ -1,0 +1,13 @@
+name: "Highlight"
+description: "Highlight is an open-source platform for error tracking, session replay, and logging. It offers a self-hosted option and a managed cloud service. It is free to self-host with paid cloud plans."
+source_url: "https://highlight.io/"
+category: "Replay + Errors"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "freemium"
+  - "replay"
+  - "error-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/highlight.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://highlight.io/>\n- Repository: <https://github.com/highlight/highlight>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:23"

@@ -1,0 +1,12 @@
+name: "Errbit"
+description: "Errbit is an open-source, self-hosted error catcher compatible with the Airbrake API. It is designed for teams that want to host their own exception tracking. It is free to use under the MIT license."
+source_url: "https://github.com/errbit/errbit"
+category: "Open-Source & Self-Hosted"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "airbrake-compatible"
+  - "error-tracking"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/errbit/errbit>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:23"
